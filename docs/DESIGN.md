@@ -122,9 +122,13 @@ Custom combat rig beyond static sprite; char-select bg scene (gun smoke — queu
 MegaDot art pass); events; potions (STS2 potion pool gets vanilla potions by default);
 Workshop publish.
 
-## Open questions for user review
+## Resolved decisions (user review 2026-07-02)
 
-1. "In the Flow" threshold: 3 Flow (as patched in STS1) — confirm.
-2. zh keyword name: `入流`? or keep raw `势` phrasing per card?
-3. Starting deck: 2× Jeet Kune Do (new) vs STS1's 1× — confirm.
-4. New rare name: "You're Gonna Carry That Weight" vs just "Carry That Weight".
+1. "In the Flow" threshold: **3 Flow** (as playtested in STS1 0.0.7.1).
+2. zh keyword name: **得势** ("holding the momentum" — contains 势, so the resource link
+   is visible on the card). 心流/入流 considered and rejected. User can veto before the
+   zhs wave.
+3. Starting deck: **2× Jeet Kune Do** confirmed.
+4. New exhaust rare: **"Carry That Weight"** (short). To avoid a display-name collision,
+   the Bang. recoil debuff power is renamed **"The Weight"** (was Carry That Weight in
+   STS1; zh flavor 你将背负这份重量 unchanged).
