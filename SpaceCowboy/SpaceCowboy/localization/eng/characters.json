@@ -1,0 +1,16 @@
+{
+  "SPACECOWBOY-SPACE_COWBOY.title": "The Space Cowboy",
+  "SPACECOWBOY-SPACE_COWBOY.titleObject": "the Space Cowboy",
+  "SPACECOWBOY-SPACE_COWBOY.description": "After a mishap traveling through the GATE, the space cowboy finds himself at the Spire.\nWhatever happens, happens.",
+  "SPACECOWBOY-SPACE_COWBOY.pronounObject": "him",
+  "SPACECOWBOY-SPACE_COWBOY.possessiveAdjective": "his",
+  "SPACECOWBOY-SPACE_COWBOY.pronounPossessive": "his",
+  "SPACECOWBOY-SPACE_COWBOY.pronounSubject": "he",
+  "SPACECOWBOY-SPACE_COWBOY.cardsModifierTitle": "Space Cowboy Cards",
+  "SPACECOWBOY-SPACE_COWBOY.cardsModifierDescription": "Space Cowboy cards will now appear in rewards and shops.",
+  "SPACECOWBOY-SPACE_COWBOY.aromaPrinciple": "Bounty",
+  "SPACECOWBOY-SPACE_COWBOY.eventDeathPrevention": "Not yet. There's still a bounty to collect.",
+  "SPACECOWBOY-SPACE_COWBOY.banter.alive.endTurnPing": "Let's jam.",
+  "SPACECOWBOY-SPACE_COWBOY.banter.dead.endTurnPing": "See you, space cowboy...",
+  "SPACECOWBOY-SPACE_COWBOY.goldMonologue": "Woolongs. Enough for beef with bell peppers. Maybe even the beef."
+}
