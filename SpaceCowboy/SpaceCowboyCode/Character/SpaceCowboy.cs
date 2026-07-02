@@ -6,6 +6,7 @@ using MegaCrit.Sts2.Core.Entities.Characters;
 using MegaCrit.Sts2.Core.Models;
 using MegaCrit.Sts2.Core.Models.Cards;
 using MegaCrit.Sts2.Core.Models.Relics;
+using MegaCrit.Sts2.Core.Nodes.Combat;
 using SpaceCowboy.SpaceCowboyCode.Cards.Basic;
 using SpaceCowboy.SpaceCowboyCode.Relics;
 
@@ -61,4 +62,14 @@ public class SpaceCowboy : PlaceholderCharacterModel
     public override string CustomCharacterSelectIconPath => "char_select_char_name.png".CharacterUiPath();
     public override string CustomCharacterSelectLockedIconPath => "char_select_char_name_locked.png".CharacterUiPath();
     public override string CustomMapMarkerPath => "map_marker_char_name.png".CharacterUiPath();
+
+    // Static combat sprite (STS1 parity): BaseLib's NCreatureVisuals factory builds the
+    // full creature node (bounds/markers) from a single texture — no Spine rig needed.
+    public override NCreatureVisuals? CreateCustomVisuals()
+    {
+        return NodeFactory<NCreatureVisuals>.CreateFromResource("char_spike.png".ImagePath());
+    }
+
+    // Gun-smoke character select background (scene shipped in our pck via MegaDot export).
+    public override string CustomCharacterSelectBg => $"{MainFile.ResPath}/scenes/char_select_bg_spacecowboy.tscn";
 }

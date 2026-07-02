@@ -16,5 +16,8 @@
   "SPACECOWBOY-JUPITER_JAZZ_POWER.smartDescription": "At the end of {OnPlayer:your|[gold]{OwnerName}'s[/gold]} turn, if [gold]In the Flow[/gold], {OnPlayer:you gain|they gain} [blue]{Amount}[/blue] [gold]Strength[/gold].",
   "SPACECOWBOY-BLUE_POWER.title": "Blue",
   "SPACECOWBOY-BLUE_POWER.description": "Gain Flow whenever you play a card.",
-  "SPACECOWBOY-BLUE_POWER.smartDescription": "Whenever {OnPlayer:you play|[gold]{OwnerName}[/gold] plays} a card, {OnPlayer:you gain|they gain} [blue]{Amount}[/blue] [gold]Flow[/gold]."
+  "SPACECOWBOY-BLUE_POWER.smartDescription": "Whenever {OnPlayer:you play|[gold]{OwnerName}[/gold] plays} a card, {OnPlayer:you gain|they gain} [blue]{Amount}[/blue] [gold]Flow[/gold].",
+  "SPACECOWBOY-ASK_DNA_POWER.title": "Ask DNA",
+  "SPACECOWBOY-ASK_DNA_POWER.description": "The next Attack this turn is played extra times.",
+  "SPACECOWBOY-ASK_DNA_POWER.smartDescription": "The next [gold]Attack[/gold] {OnPlayer:you play|[gold]{OwnerName}[/gold] plays} this turn is played [blue]{Amount}[/blue] extra {Amount:plural:time|times}."
 }

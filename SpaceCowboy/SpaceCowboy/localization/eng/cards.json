@@ -67,5 +67,7 @@
   "SPACECOWBOY-GOTTA_KNOCK_A_LITTLE_HARDER.title": "Gotta Knock a Little Harder",
   "SPACECOWBOY-GOTTA_KNOCK_A_LITTLE_HARDER.description": "Deal {Damage:diff()} damage.\nIf your HP is at or below half, deal double damage.",
   "SPACECOWBOY-CARRY_THAT_WEIGHT.title": "Carry That Weight",
-  "SPACECOWBOY-CARRY_THAT_WEIGHT.description": "Deal {Damage:diff()} damage, plus {PerCard:diff()} for each card in your [gold]Exhaust Pile[/gold]."
+  "SPACECOWBOY-CARRY_THAT_WEIGHT.description": "Deal {Damage:diff()} damage, plus {PerCard:diff()} for each card in your [gold]Exhaust Pile[/gold].",
+  "SPACECOWBOY-ASK_DNA.title": "Ask DNA",
+  "SPACECOWBOY-ASK_DNA.description": "The next [gold]Attack[/gold] you play this turn is played twice.\n[gold]Exhaust[/gold]."
 }

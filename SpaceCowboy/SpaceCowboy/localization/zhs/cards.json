@@ -67,5 +67,7 @@
   "SPACECOWBOY-GOTTA_KNOCK_A_LITTLE_HARDER.title": "Gotta Knock a Little Harder",
   "SPACECOWBOY-GOTTA_KNOCK_A_LITTLE_HARDER.description": "造成 {Damage:diff()} 点伤害。\n当你的生命值不高于一半时，伤害翻倍。",
   "SPACECOWBOY-CARRY_THAT_WEIGHT.title": "Carry That Weight",
-  "SPACECOWBOY-CARRY_THAT_WEIGHT.description": "造成 {Damage:diff()} 点伤害，你[gold]消耗牌堆[/gold]中每有一张牌，额外造成 {PerCard:diff()} 点伤害。"
+  "SPACECOWBOY-CARRY_THAT_WEIGHT.description": "造成 {Damage:diff()} 点伤害，你[gold]消耗牌堆[/gold]中每有一张牌，额外造成 {PerCard:diff()} 点伤害。",
+  "SPACECOWBOY-ASK_DNA.title": "Ask DNA",
+  "SPACECOWBOY-ASK_DNA.description": "本回合你打出的下一张[gold]攻击牌[/gold]将打出两次。\n[gold]消耗[/gold]。"
 }
