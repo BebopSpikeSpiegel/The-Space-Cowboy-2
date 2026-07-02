@@ -1,3 +1,10 @@
 {
-  
+  "SPACECOWBOY-STRAIGHT_LEAD.title": "Straight Lead",
+  "SPACECOWBOY-STRAIGHT_LEAD.description": "Deal {Damage:diff()} damage.",
+  "SPACECOWBOY-DODGE.title": "Dodge",
+  "SPACECOWBOY-DODGE.description": "Gain {Block:diff()} [gold]Block[/gold].",
+  "SPACECOWBOY-SHOOT.title": "Shoot",
+  "SPACECOWBOY-SHOOT.description": "Deal {Damage:diff()} damage.\nApply {Vulnerable:diff()} [gold]Vulnerable[/gold].",
+  "SPACECOWBOY-JEET_KUNE_DO.title": "Jeet Kune Do",
+  "SPACECOWBOY-JEET_KUNE_DO.description": "Deal {Damage:diff()} damage.\nGain {Flow:diff()} [gold]Flow[/gold]."
 }

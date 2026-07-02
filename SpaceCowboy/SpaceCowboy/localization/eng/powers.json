@@ -1,3 +1,8 @@
 {
-  
+  "SPACECOWBOY-FLOW.title": "Flow",
+  "SPACECOWBOY-FLOW.description": "Combat momentum. Some cards gain or spend Flow; while you have 3 or more, you are In the Flow.",
+  "SPACECOWBOY-FLOW.smartDescription": "{OnPlayer:Your|[gold]{OwnerName}'s[/gold]} combat momentum. Some cards gain or spend Flow. At [blue]3[/blue] or more, {OnPlayer:you are|they are} [gold]In the Flow[/gold].",
+  "SPACECOWBOY-THE_WEIGHT.title": "The Weight",
+  "SPACECOWBOY-THE_WEIGHT.description": "Lose HP at the start of your next turn.",
+  "SPACECOWBOY-THE_WEIGHT.smartDescription": "At the start of {OnPlayer:your|[gold]{OwnerName}'s[/gold]} next turn, {OnPlayer:you lose|they lose} [blue]{Amount}[/blue] HP."
 }

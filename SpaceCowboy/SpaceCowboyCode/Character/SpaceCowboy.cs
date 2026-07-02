@@ -6,35 +6,38 @@ using MegaCrit.Sts2.Core.Entities.Characters;
 using MegaCrit.Sts2.Core.Models;
 using MegaCrit.Sts2.Core.Models.Cards;
 using MegaCrit.Sts2.Core.Models.Relics;
+using SpaceCowboy.SpaceCowboyCode.Cards.Basic;
+using SpaceCowboy.SpaceCowboyCode.Relics;
 
 namespace SpaceCowboy.SpaceCowboyCode.Character;
 
 public class SpaceCowboy : PlaceholderCharacterModel
 {
     public const string CharacterId = "SpaceCowboy";
-    
-    public static readonly Color Color = new("ffffff");
+
+    // STS1 Spike blue (RGB 0, 39, 127).
+    public static readonly Color Color = new("00277f");
 
     public override Color NameColor => Color;
-    public override CharacterGender Gender => CharacterGender.Neutral;
-    public override int StartingHp => 70;
-    
+    public override CharacterGender Gender => CharacterGender.Masculine;
+    public override int StartingHp => 80;
+
     public override IEnumerable<CardModel> StartingDeck => [
-        ModelDb.Card<StrikeIronclad>(),
-        ModelDb.Card<StrikeIronclad>(),
-        ModelDb.Card<StrikeIronclad>(),
-        ModelDb.Card<StrikeIronclad>(),
-        ModelDb.Card<StrikeIronclad>(),
-        ModelDb.Card<DefendIronclad>(),
-        ModelDb.Card<DefendIronclad>(),
-        ModelDb.Card<DefendIronclad>(),
-        ModelDb.Card<DefendIronclad>(),
-        ModelDb.Card<DefendIronclad>()
+        ModelDb.Card<StraightLead>(),
+        ModelDb.Card<StraightLead>(),
+        ModelDb.Card<StraightLead>(),
+        ModelDb.Card<StraightLead>(),
+        ModelDb.Card<Dodge>(),
+        ModelDb.Card<Dodge>(),
+        ModelDb.Card<Dodge>(),
+        ModelDb.Card<Shoot>(),
+        ModelDb.Card<JeetKuneDo>(),
+        ModelDb.Card<JeetKuneDo>()
     ];
 
     public override IReadOnlyList<RelicModel> StartingRelics =>
     [
-        ModelDb.Relic<BurningBlood>()
+        ModelDb.Relic<Marlboro>()
     ];
     
     public override CardPoolModel CardPool => ModelDb.CardPool<SpaceCowboyCardPool>();
