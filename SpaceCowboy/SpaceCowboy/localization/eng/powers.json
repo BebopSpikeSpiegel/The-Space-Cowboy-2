@@ -10,5 +10,11 @@
   "SPACECOWBOY-TANK_POWER.smartDescription": "At the start of {OnPlayer:your|[gold]{OwnerName}'s[/gold]} turn, {OnPlayer:you gain|they gain} [blue]{Amount}[/blue] [gold]Flow[/gold].",
   "SPACECOWBOY-SPACE_LION_POWER.title": "Space Lion",
   "SPACECOWBOY-SPACE_LION_POWER.description": "Gain Strength whenever you lose HP.",
-  "SPACECOWBOY-SPACE_LION_POWER.smartDescription": "Whenever {OnPlayer:you lose|[gold]{OwnerName}[/gold] loses} HP, {OnPlayer:you gain|they gain} [blue]{Amount}[/blue] [gold]Strength[/gold]."
+  "SPACECOWBOY-SPACE_LION_POWER.smartDescription": "Whenever {OnPlayer:you lose|[gold]{OwnerName}[/gold] loses} HP, {OnPlayer:you gain|they gain} [blue]{Amount}[/blue] [gold]Strength[/gold].",
+  "SPACECOWBOY-JUPITER_JAZZ_POWER.title": "Jupiter Jazz",
+  "SPACECOWBOY-JUPITER_JAZZ_POWER.description": "Gain Strength at the end of your turn while In the Flow.",
+  "SPACECOWBOY-JUPITER_JAZZ_POWER.smartDescription": "At the end of {OnPlayer:your|[gold]{OwnerName}'s[/gold]} turn, if [gold]In the Flow[/gold], {OnPlayer:you gain|they gain} [blue]{Amount}[/blue] [gold]Strength[/gold].",
+  "SPACECOWBOY-BLUE_POWER.title": "Blue",
+  "SPACECOWBOY-BLUE_POWER.description": "Gain Flow whenever you play a card.",
+  "SPACECOWBOY-BLUE_POWER.smartDescription": "Whenever {OnPlayer:you play|[gold]{OwnerName}[/gold] plays} a card, {OnPlayer:you gain|they gain} [blue]{Amount}[/blue] [gold]Flow[/gold]."
 }

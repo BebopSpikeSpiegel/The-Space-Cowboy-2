@@ -1,0 +1,20 @@
+{
+  "SPACECOWBOY-FLOW.title": "势",
+  "SPACECOWBOY-FLOW.description": "你的连招势能。部分卡牌会获得或消耗势；拥有 3 点或更多时，你处于得势状态。",
+  "SPACECOWBOY-FLOW.smartDescription": "{OnPlayer:你的|[gold]{OwnerName}的[/gold]}连招势能。部分卡牌会获得或消耗势。达到 [blue]3[/blue] 点或更多时，处于[gold]得势[/gold]状态。",
+  "SPACECOWBOY-THE_WEIGHT.title": "The Weight",
+  "SPACECOWBOY-THE_WEIGHT.description": "你的下回合开始时失去生命。",
+  "SPACECOWBOY-THE_WEIGHT.smartDescription": "{OnPlayer:你的|[gold]{OwnerName}的[/gold]}下回合开始时，失去 [blue]{Amount}[/blue] 点生命。",
+  "SPACECOWBOY-TANK_POWER.title": "Tank!",
+  "SPACECOWBOY-TANK_POWER.description": "回合开始时获得势。",
+  "SPACECOWBOY-TANK_POWER.smartDescription": "{OnPlayer:你的|[gold]{OwnerName}的[/gold]}回合开始时，获得 [blue]{Amount}[/blue] 点[gold]势[/gold]。",
+  "SPACECOWBOY-SPACE_LION_POWER.title": "Space Lion",
+  "SPACECOWBOY-SPACE_LION_POWER.description": "每当失去生命时获得力量。",
+  "SPACECOWBOY-SPACE_LION_POWER.smartDescription": "每当{OnPlayer:你|[gold]{OwnerName}[/gold]}失去生命时，获得 [blue]{Amount}[/blue] 点[gold]力量[/gold]。",
+  "SPACECOWBOY-JUPITER_JAZZ_POWER.title": "Jupiter Jazz",
+  "SPACECOWBOY-JUPITER_JAZZ_POWER.description": "回合结束时，若处于得势状态，获得力量。",
+  "SPACECOWBOY-JUPITER_JAZZ_POWER.smartDescription": "{OnPlayer:你的|[gold]{OwnerName}的[/gold]}回合结束时，若处于[gold]得势[/gold]状态，获得 [blue]{Amount}[/blue] 点[gold]力量[/gold]。",
+  "SPACECOWBOY-BLUE_POWER.title": "Blue",
+  "SPACECOWBOY-BLUE_POWER.description": "每当打出一张牌时获得势。",
+  "SPACECOWBOY-BLUE_POWER.smartDescription": "每当{OnPlayer:你|[gold]{OwnerName}[/gold]}打出一张牌，获得 [blue]{Amount}[/blue] 点[gold]势[/gold]。"
+}

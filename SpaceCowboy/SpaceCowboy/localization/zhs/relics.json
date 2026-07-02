@@ -1,0 +1,20 @@
+{
+  "SPACECOWBOY-MARLBORO.title": "Marlboro",
+  "SPACECOWBOY-MARLBORO.description": "每场战斗开始时，获得 {Flow} 点[gold]势[/gold]。",
+  "SPACECOWBOY-MARLBORO.flavor": "红与白，那是玫瑰与死亡的颜色。",
+  "SPACECOWBOY-JERICHO941.title": "Jericho 941",
+  "SPACECOWBOY-JERICHO941.description": "你每回合打出的第一张[gold]攻击牌[/gold]使你获得 1 点[gold]势[/gold]。",
+  "SPACECOWBOY-JERICHO941.flavor": "出门从不离身。",
+  "SPACECOWBOY-EIN.title": "Ein",
+  "SPACECOWBOY-EIN.description": "每场战斗的第一个回合，额外抽 1 张牌。",
+  "SPACECOWBOY-EIN.flavor": "一只数据犬，比看上去聪明得多。",
+  "SPACECOWBOY-BIG_SHOT.title": "Big Shot",
+  "SPACECOWBOY-BIG_SHOT.description": "每当你赢得一场战斗，获得 {Gold} 金币。",
+  "SPACECOWBOY-BIG_SHOT.flavor": "「耶！赏金猎人秀！」",
+  "SPACECOWBOY-SEE_YOU_SPACE_COWBOY.title": "See You Space Cowboy",
+  "SPACECOWBOY-SEE_YOU_SPACE_COWBOY.description": "每场战斗开始时，获得 1 层[gold]缓冲[/gold]。",
+  "SPACECOWBOY-SEE_YOU_SPACE_COWBOY.flavor": "你将背负这份重量。",
+  "SPACECOWBOY-SWORDFISH_I_I.title": "Swordfish II",
+  "SPACECOWBOY-SWORDFISH_I_I.description": "每回合获得 1 点[gold]能量[/gold]，每场战斗开始时获得 2 点[gold]势[/gold]。",
+  "SPACECOWBOY-SWORDFISH_I_I.flavor": "他的飞船，他的自由。"
+}

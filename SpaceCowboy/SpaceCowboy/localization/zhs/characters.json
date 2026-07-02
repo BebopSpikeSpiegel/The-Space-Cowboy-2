@@ -1,0 +1,16 @@
+{
+  "SPACECOWBOY-SPACE_COWBOY.title": "星际牛仔",
+  "SPACECOWBOY-SPACE_COWBOY.titleObject": "星际牛仔",
+  "SPACECOWBOY-SPACE_COWBOY.description": "在某一次通过GATE的跨空间旅行中，这个来自西元2071年的太空赏金猎人意外地来到了这座尖塔。\n不管发生什么，都顺其自然。",
+  "SPACECOWBOY-SPACE_COWBOY.pronounObject": "他",
+  "SPACECOWBOY-SPACE_COWBOY.possessiveAdjective": "他的",
+  "SPACECOWBOY-SPACE_COWBOY.pronounPossessive": "他的",
+  "SPACECOWBOY-SPACE_COWBOY.pronounSubject": "他",
+  "SPACECOWBOY-SPACE_COWBOY.cardsModifierTitle": "星际牛仔卡牌",
+  "SPACECOWBOY-SPACE_COWBOY.cardsModifierDescription": "星际牛仔的卡牌将会出现在奖励和商店中。",
+  "SPACECOWBOY-SPACE_COWBOY.aromaPrinciple": "赏金",
+  "SPACECOWBOY-SPACE_COWBOY.eventDeathPrevention": "还不行。还有赏金没拿到手。",
+  "SPACECOWBOY-SPACE_COWBOY.banter.alive.endTurnPing": "来吧，伙计。",
+  "SPACECOWBOY-SPACE_COWBOY.banter.dead.endTurnPing": "再见了，太空牛仔……",
+  "SPACECOWBOY-SPACE_COWBOY.goldMonologue": "伍隆币。够吃一份青椒肉丝了，说不定还带肉。"
+}

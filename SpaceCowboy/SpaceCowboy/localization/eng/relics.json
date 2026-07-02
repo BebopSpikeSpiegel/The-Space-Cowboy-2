@@ -1,5 +1,20 @@
 {
   "SPACECOWBOY-MARLBORO.title": "Marlboro",
   "SPACECOWBOY-MARLBORO.description": "At the start of each combat, gain {Flow} [gold]Flow[/gold].",
-  "SPACECOWBOY-MARLBORO.flavor": "Red and white — the colors of roses, and of death."
+  "SPACECOWBOY-MARLBORO.flavor": "Red and white — the colors of roses, and of death.",
+  "SPACECOWBOY-JERICHO941.title": "Jericho 941",
+  "SPACECOWBOY-JERICHO941.description": "The first [gold]Attack[/gold] you play each turn grants 1 [gold]Flow[/gold].",
+  "SPACECOWBOY-JERICHO941.flavor": "Never leaves home without it.",
+  "SPACECOWBOY-EIN.title": "Ein",
+  "SPACECOWBOY-EIN.description": "Draw 1 additional card on your first turn of each combat.",
+  "SPACECOWBOY-EIN.flavor": "A data dog. Much smarter than he looks.",
+  "SPACECOWBOY-BIG_SHOT.title": "Big Shot",
+  "SPACECOWBOY-BIG_SHOT.description": "Gain {Gold} Gold after each combat victory.",
+  "SPACECOWBOY-BIG_SHOT.flavor": "\"Yeah! The bounty hunter show!\"",
+  "SPACECOWBOY-SEE_YOU_SPACE_COWBOY.title": "See You Space Cowboy",
+  "SPACECOWBOY-SEE_YOU_SPACE_COWBOY.description": "At the start of each combat, gain 1 [gold]Buffer[/gold].",
+  "SPACECOWBOY-SEE_YOU_SPACE_COWBOY.flavor": "You're gonna carry that weight.",
+  "SPACECOWBOY-SWORDFISH_I_I.title": "Swordfish II",
+  "SPACECOWBOY-SWORDFISH_I_I.description": "Gain 1 [gold]Energy[/gold] at the start of each turn and 2 [gold]Flow[/gold] at the start of each combat.",
+  "SPACECOWBOY-SWORDFISH_I_I.flavor": "His ship. His freedom."
 }
