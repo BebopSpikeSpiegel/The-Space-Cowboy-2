@@ -1,5 +1,7 @@
+using MegaCrit.Sts2.Core.Commands;
 using MegaCrit.Sts2.Core.Entities.Creatures;
 using MegaCrit.Sts2.Core.Entities.Powers;
+using MegaCrit.Sts2.Core.GameActions.Multiplayer;
 
 namespace SpaceCowboy.SpaceCowboyCode.Powers;
 
@@ -22,4 +24,17 @@ public class Flow : SpaceCowboyPower
     }
 
     public static bool IsInTheFlow(Creature creature) => AmountOn(creature) >= InTheFlowThreshold;
+
+    /// <summary>Spend up to <paramref name="amount"/> Flow; returns how much was actually spent.</summary>
+    public static async Task<int> Spend(PlayerChoiceContext choiceContext, Creature creature, int amount)
+    {
+        var power = creature.GetPower<Flow>();
+        if (power == null || amount <= 0)
+        {
+            return 0;
+        }
+        int spent = Math.Min(amount, power.Amount);
+        await PowerCmd.ModifyAmount(choiceContext, power, -spent, null, null);
+        return spent;
+    }
 }

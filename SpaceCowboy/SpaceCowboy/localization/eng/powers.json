@@ -4,5 +4,11 @@
   "SPACECOWBOY-FLOW.smartDescription": "{OnPlayer:Your|[gold]{OwnerName}'s[/gold]} combat momentum. Some cards gain or spend Flow. At [blue]3[/blue] or more, {OnPlayer:you are|they are} [gold]In the Flow[/gold].",
   "SPACECOWBOY-THE_WEIGHT.title": "The Weight",
   "SPACECOWBOY-THE_WEIGHT.description": "Lose HP at the start of your next turn.",
-  "SPACECOWBOY-THE_WEIGHT.smartDescription": "At the start of {OnPlayer:your|[gold]{OwnerName}'s[/gold]} next turn, {OnPlayer:you lose|they lose} [blue]{Amount}[/blue] HP."
+  "SPACECOWBOY-THE_WEIGHT.smartDescription": "At the start of {OnPlayer:your|[gold]{OwnerName}'s[/gold]} next turn, {OnPlayer:you lose|they lose} [blue]{Amount}[/blue] HP.",
+  "SPACECOWBOY-TANK_POWER.title": "Tank!",
+  "SPACECOWBOY-TANK_POWER.description": "Gain Flow at the start of your turn.",
+  "SPACECOWBOY-TANK_POWER.smartDescription": "At the start of {OnPlayer:your|[gold]{OwnerName}'s[/gold]} turn, {OnPlayer:you gain|they gain} [blue]{Amount}[/blue] [gold]Flow[/gold].",
+  "SPACECOWBOY-SPACE_LION_POWER.title": "Space Lion",
+  "SPACECOWBOY-SPACE_LION_POWER.description": "Gain Strength whenever you lose HP.",
+  "SPACECOWBOY-SPACE_LION_POWER.smartDescription": "Whenever {OnPlayer:you lose|[gold]{OwnerName}[/gold] loses} HP, {OnPlayer:you gain|they gain} [blue]{Amount}[/blue] [gold]Strength[/gold]."
 }
